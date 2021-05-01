@@ -5,6 +5,9 @@
 - ✔️ Certified in HTML5, CSS3, JavaScript
 - ⚡ Comfortable with Java, PHP, NodeJS
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsobiek" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexsobiek" /></p>
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsobiek&count_private=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsobiek&1)
 
