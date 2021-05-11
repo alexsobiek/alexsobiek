@@ -14,6 +14,9 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
 </p>
 
+<img align="right" src="https://github.com/alexsobiek/alexsobiek/blob/main/github-metrics.svg">
+
+### Welcome to my Profile!
 - 🎓 Computer Science major at Loyola University Chicago
 - ✔️ Certified in HTML5, CSS3, JavaScript
 - ⚡ Comfortable with Java, PHP, NodeJS
@@ -22,8 +25,6 @@
 
 🕹️ Check out my rewrite of the [1973 Atari game Space Race](https://github.com/alexsobiek/SpaceRace) in Java!
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsobiek&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsobiek&layout=compact)
+[![SpaceRace](https://github-readme-stats.vercel.app/api/pin/?username=alexsobiek&repo=SpaceRace)](https://github.com/alexsobiek/SpaceRace)
 
 
