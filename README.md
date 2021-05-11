@@ -21,10 +21,8 @@
 - ✔️ Certified in HTML5, CSS3, JavaScript
 - ⚡ Comfortable with Java, PHP, NodeJS
 - 🌱 Currently learning Rust, C, C++, [x86 Assembly](https://github.com/alexsobiek/AssemblyPlayground)
+
+
+### Projects
 - 💾 Working on writing a *very* basic [operating system](https://github.com/alexsobiek/operating-system)!
-
-🕹️ Check out my rewrite of the [1973 Atari game Space Race](https://github.com/alexsobiek/SpaceRace) in Java!
-<br />
-<br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexsobiek&repo=SpaceRace">
-
+- 🕹️ Java rewrite of [Atari's 1973 game Space Race](https://github.com/alexsobiek/SpaceRace)!
