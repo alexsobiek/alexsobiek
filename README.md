@@ -24,7 +24,7 @@
 - 💾 Working on writing a *very* basic [operating system](https://github.com/alexsobiek/operating-system)!
 
 🕹️ Check out my rewrite of the [1973 Atari game Space Race](https://github.com/alexsobiek/SpaceRace) in Java!
-
-[![SpaceRace](https://github-readme-stats.vercel.app/api/pin/?username=alexsobiek&repo=SpaceRace)](https://github.com/alexsobiek/SpaceRace)
-
+<br />
+<br />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexsobiek&repo=SpaceRace">
 
