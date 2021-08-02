@@ -1371,7 +1371,7 @@
                     <rect mask="url(#languages-bar)" x="331.9554589244315" y="0" width="42.54153203041478" height="8" fill="#6E4C13"/>
                     <rect mask="url(#languages-bar)" x="374.49699095484635" y="0" width="36.24788285745174" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="410.74487381229807" y="0" width="20.24024312604356" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="430.98511693834166" y="0" width="16.129202753186224" height="8" fill="#ffac45"/>
+                    <rect mask="url(#languages-bar)" x="430.98511693834166" y="0" width="16.129202753186224" height="8" fill="#F05138"/>
                     <rect mask="url(#languages-bar)" x="447.11431969152784" y="0" width="12.885680308472173" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
@@ -1440,7 +1440,7 @@
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ffac45" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       Swift
                     </div>
                             <small>
@@ -2465,7 +2465,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 02/08/2021, 10:13  with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 02/08/2021, 11:10  with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
