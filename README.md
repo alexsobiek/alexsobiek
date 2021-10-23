@@ -24,5 +24,6 @@
 
 
 ### Projects
+- ⌨️ [BASIC Interpreter and REPL environment](https://github.com/alexsobiek/JBasic) in Java
 - 💾 Writing a *very* basic [operating system](https://github.com/alexsobiek/operating-system)!
 - 🕹️ Java rewrite of [Atari's 1973 game Space Race](https://github.com/alexsobiek/SpaceRace)!
