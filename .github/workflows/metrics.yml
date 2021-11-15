@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Run every hour
-  schedule: [{cron: "0 * * * *"}]
+  # schedule: [{cron: "0 * * * *"}]
   # Run manually and on each push
   workflow_dispatch:
   push: {branches: ["master", "main"]}
