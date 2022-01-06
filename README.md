@@ -20,7 +20,7 @@
 - 🎓 Computer Science major at Loyola University Chicago
 - ✔️ Certified in HTML5, CSS3, JavaScript
 - ⚡ Comfortable with Java, PHP, NodeJS
-- 🌱 Currently learning Rust, C, C++, [x86 Assembly](https://github.com/alexsobiek/AssemblyPlayground)
+- 🌱 Currently learning Rust, C, [x86 Assembly](https://github.com/alexsobiek/AssemblyPlayground)
 
 
 ### Projects
