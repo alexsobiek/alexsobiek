@@ -25,3 +25,4 @@
 
 ### Projects
 - 🕹️ Java rewrite of [Atari's 1973 game Space Race](https://github.com/alexsobiek/SpaceRace)!
+- 🚀 [Orion - High performance, bare-bones Minecraft Server](https://github.com/alexsobiek/Orion)
