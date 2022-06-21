@@ -19,10 +19,9 @@
 ### Welcome to my Profile!
 - 🎓 Computer Science major at Loyola University Chicago
 - ✔️ Certified in HTML5, CSS3, JavaScript
-- ⚡ Comfortable with Java, PHP, NodeJS
-- 🌱 Currently learning Rust, C, [x86 Assembly](https://github.com/alexsobiek/AssemblyPlayground)
+- ⚡ Comfortable with Java, PHP, JavaScript/TypeScript
+- 🌱 Currently learning Rust, C, x86 Assembly
 
+### Current Projects
+- 🚀 [Nexus](https://github.com/alexsobiek/nexus) 
 
-### Projects
-- 🕹️ Java rewrite of [Atari's 1973 game Space Race](https://github.com/alexsobiek/SpaceRace)!
-- 🚀 [Orion - High performance, bare-bones Minecraft Server](https://github.com/alexsobiek/Orion)
