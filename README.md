@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi! I'm Alex</h1>
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=OpenJDK">
   <img alt="Go" src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go">
   <img alt="C" src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php">
