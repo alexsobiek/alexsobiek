@@ -15,7 +15,6 @@
 <img align="right" src="https://github.com/alexsobiek/alexsobiek/blob/main/github-metrics.svg">
 
 ### Welcome to my Profile!
-- 🛜 Network Engineer, hobbyist programmer
 - 🎓 Studied Computer Science at Loyola University Chicago
 - ✔️ Certified in HTML5, CSS3, JavaScript
 - ⚡ Comfortable with Java, Go, PHP, JavaScript/TypeScript
